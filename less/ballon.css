@@ -1,0 +1,20 @@
+.ballon__header {
+  font-size: 13px;
+  margin-top: 0;
+  margin-bottom: 10px;
+  color: black;
+}
+.ballon__body {
+  height: 100px;
+}
+.ballon__item {
+  font-size: 12px;
+}
+.ballon__impression {
+  margin-top: 10px;
+}
+.ballon__footer {
+  font-size: 12px;
+  text-align: right;
+  color: #7D7D7D;
+}
